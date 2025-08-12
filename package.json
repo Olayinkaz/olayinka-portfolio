@@ -1,12 +1,15 @@
 {
-  "name": "lohit-portfolio",
+  "name": "olayinkaz-portfolio",
+  "homepage": "https://olayinkaz.github.io/my-portfolio/",
   "version": "4.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "clean-dev": "rd /s /q .next && next dev"
+    "build": "next build",
+    "start": "next start",
+    "clean-dev": "rd /s /q .next && next dev",
+     "predeploy": "npm run build",
+     "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -27,6 +30,7 @@
     "typescript": "^5.7.2"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "sass": "^1.83.0"
   }
 }
