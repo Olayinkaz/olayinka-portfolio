@@ -116,11 +116,11 @@ function Index() {
     <div className="app">
       <Head>
         <title>Olayinka&apos;s Portfolio</title>
-        <meta name="description" content="Lohit's personal portfolio website" />
-        <link rel="canonical" href="https://lohit.is-a.dev" />
-        <meta property="og:title" content="Lohit's Portfolio" />
-        <meta property="og:description" content="Lohit's personal portfolio website" />
-        <meta property="og:url" content="https://lohit.is-a.dev" />
+        <meta name="description" content="Olayinka personal portfolio website" />
+        <link rel="canonical" href="" />
+        <meta property="og:title" content=" Olayinka Portfolio" />
+        <meta property="og:description" content="Olayinka personal portfolio website" />
+        <meta property="og:url" content="" />
         <link rel="shortcut icon" href="/favicon.png" />
         <meta
           name="google-site-verification"

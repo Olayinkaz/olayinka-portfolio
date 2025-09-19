@@ -66,9 +66,9 @@ function Hero() {
           transition={{ duration: 0.4, ease: 'easeInOut', delay: 1.4 }}
         >
           <Button
-            text="Check out my LinkedIn"
-            link="https://www.linkedin.com/in/olayinka-abdulazeez/"
-            aria-label="LinkedIn profile of Olayinka Abdulazeez"
+            text="Check out my X(Twitter)"
+            link="https://x.com/AfiriNomo"
+            aria-label="Twitter profile of Olayinka Abdulazeez"
           />
         </motion.div>
       </motion.div>

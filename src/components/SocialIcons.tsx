@@ -1,9 +1,9 @@
-import { Github, Instagram, Linkedin } from 'lucide-react';
+import { Github, Instagram, Twitter } from 'lucide-react';
 
 function SocialIcons() {
   const socialLinks = [
     { name: 'Github', icon: <Github />, link: 'https://github.com/Olayinkaz' },
-    { name: 'LinkedIn', icon: <Linkedin />, link: '' },
+    { name: 'X(Twitter)', icon: <Twitter />, link: 'https://x.com/AfiriNomo' },
     { name: 'Instagram', icon: <Instagram />, link: 'https://www.instagram.com/layinx_/' },
   ];
 
