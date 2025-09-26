@@ -110,13 +110,7 @@ npm run dev
 5️⃣ **Open in your browser**
 - Visit [http://localhost:3000](http://localhost:3000)
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="image.png" alt="Hero Page" width="600px"/>
-</div>
 
 ---
 
